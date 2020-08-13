@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+
+!c
+!c/*
+!c/*/src
+!c/*/src/*.c
+!c/*/src/*.h
